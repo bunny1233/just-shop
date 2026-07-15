@@ -157,6 +157,7 @@
     "winston": "^3.16.0",
     "z85": "^0.0.2",
     "zod": "^4.4.3"
+    "next":"16.0.0"
   },
   "devDependencies": {
     "@cyclonedx/cyclonedx-npm": "^2.0.0||^3.0.0||^4.00",
